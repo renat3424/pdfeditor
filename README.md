@@ -8,9 +8,9 @@ This project is a pdf editor written with use of Python, PyQt5, img2pdf, pdf2img
 - Allows insertion of draggable, resizable text box
 - Allows saving pdf files
 
-![alt text](screenshots/1.pdf)
-![alt text](screenshots/2.pdf)
-![alt text](screenshots/3.pdf)
+![alt text](https://github.com/renat3424/pdfeditor/screenshots/1.pdf)
+![alt text](https://github.com/renat3424/pdfeditor/screenshots/2.pdf)
+![alt text](https://github.com/renat3424/pdfeditor/screenshots/3.pdf)
 
 
 
