@@ -1,0 +1,14 @@
+
+
+import sys
+import atexit
+import os
+from app import *
+from globals import *
+
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    ex = App()
+    appExec = app.exec_()
+    atexit.register(ex.exiting)
+    sys.exit(appExec)
